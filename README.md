@@ -3,7 +3,8 @@
 
 Sample scripts, including the parameters used in the actual genome assembly, are located in the B04Sm5_genome_tool_parameters.sh file.
 
-Tool versions:
+
+**Tool versions:**
 
 minimap2 2.17-r941
 
