@@ -1,7 +1,7 @@
 # JB001_genome_completion
 **Scripts, parameters, and versions of the software tools used to complete the genome of JB001.**
 
-Sample scripts, including the parameters used in the actual genome assembly, are located in the G6-genome-scripts.sh file. If you find this information useful, please cite the paper.
+Sample scripts, including the parameters used in the actual genome assembly, are located in the G6-genome-scripts.sh file. If you find this information useful, please cite the paper (coming April 2021).
 
 
 **Tool versions:**
