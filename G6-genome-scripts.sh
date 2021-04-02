@@ -48,9 +48,9 @@ anvi-profile \
     -T 48
 
 anvi-refine \
--p assembly.profile/PROFILE.db \
--c assembly.contigs.db \
--C DEFAULT
+    -p assembly.profile/PROFILE.db \
+    -c assembly.contigs.db \
+    -C DEFAULT
 
 # ------ Flye Assembly -------
 # Remove reads mapping to the human genome
